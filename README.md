@@ -2,13 +2,13 @@
 
 Static site hosted on GitHub Pages. Free.
 
-## Update the GIF
+## Update the video
 
-Replace `gaston.gif` in the root of this repo, commit, and push. GitHub Pages auto-deploys in ~30 seconds.
+Replace `gaston.mp4` in the root of this repo, commit, and push. GitHub Pages auto-deploys in ~30 seconds.
 
 ```bash
-git add gaston.gif
-git commit -m "update gif"
+git add gaston.mp4
+git commit -m "update video"
 git push
 ```
 
